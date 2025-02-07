@@ -1,0 +1,1 @@
+This error typically occurs when using Expo's managed workflow and attempting to access native modules or functionalities that are not directly supported by the managed workflow or require specific configurations.  It's often masked by seemingly unrelated error messages.
